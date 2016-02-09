@@ -1,4 +1,5 @@
-//Euler Problem 3.  What is the largest prime factor of the number 600851475143?
+//  Euler Problem 3.  What is the largest prime factor of the number 600851475143?  
+//  Worked on this problem in conjunction with Michael Desantis (Multishifties).
 
 function maxP(a) {
 var b = a - 1;
